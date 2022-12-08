@@ -56,3 +56,14 @@ body {
     margin-bottom: 10px;
   }
   
+  .footer {
+
+  }
+  .footer a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
